@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "csv": "^6.3.8",
+        "puppeteer": "^22.6.1",
+        "puppeteer-extra": "^3.3.6"
+    },
+    "type": "module"
+}
